@@ -9,6 +9,7 @@
         }
          #titulo{
         font-family:arial;
+        background-color(grey);
         }
         #paragrafo{
         font-family:arial;
