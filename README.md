@@ -23,6 +23,6 @@
                         e Joaquina(minha dupla no<br>
                         projeto)não para de me pertubar, se você estiver muito ocupado,<br>
                         ou simplismente não quiser, eu entendo, mas gostaria muito que<br>
-                        tu aceitasse.</p> 
+                        tu aceitasse.</p>  
     </body>
 <html>  
