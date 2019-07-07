@@ -2,10 +2,10 @@
 <html>
   <head>
   </head>
-    <body>
+    <body id="cor">
       <style>
-        body{
-        background-color(199, 193, 199);
+        #cor{
+        background:(199, 193, 199);
         }
          #titulo{
         font-family:arial;
