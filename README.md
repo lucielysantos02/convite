@@ -4,12 +4,9 @@
   </head>
     <body id="cor">
       <style>
-        #cor{
-        background:(199, 193, 199);
-        }
          #titulo{
         font-family:arial;
-        background-color(grey);
+        background-color(199, 193, 199);
         }
         #paragrafo{
         font-family:arial;
