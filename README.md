@@ -5,7 +5,7 @@
     <body>
       <style>
         body{
-        background-color(grey);
+        background-color(199, 193, 199);
         }
          #titulo{
         font-family:arial;
@@ -13,7 +13,7 @@
         }
         #paragrafo{
         font-family:arial;
-        fonte-size:20px;
+        fonte-size:25px;
        }
       </style>
       <h1 id="titulo">Quer ser o orientador do meu TCC? </h1>
